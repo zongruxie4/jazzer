@@ -95,7 +95,7 @@
     <dependency>
       <groupId>com.code-intelligence</groupId>
       <artifactId>jazzer-junit</artifactId>
-      <version>dev</version>
+      <version>0.24.0</version>
       <scope>system</scope>
       <systemPath>${project.basedir}/../bazel-bin/deploy/jazzer-junit-project.jar</systemPath>
     </dependency>
